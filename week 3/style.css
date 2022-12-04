@@ -1,0 +1,33 @@
+.food {
+    font-size: 3em;
+}
+
+h1 {
+    text-align: center;
+    margin: 20px;
+    padding-bottom: 1em;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+.list {
+    text-align: center;
+}
+
+.heading {
+    text-align: left;
+    font-weight: bold;
+    font-size: 2em;
+}
+
+.Chicken, .Beef, .Sushi {
+    text-align: center;
+    background-color: gainsboro;
+    margin: 50px;
+    border: 2px;
+    padding: 40px;
+}
+
+p {
+    font-size: 20px;
+}
